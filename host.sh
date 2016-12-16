@@ -1,0 +1,1 @@
+nohup http-server -a 0.0.0.0 -p 8005 &
